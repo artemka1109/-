@@ -1,0 +1,13 @@
+{
+  "name": "durak-online",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node durak-online-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
+}
