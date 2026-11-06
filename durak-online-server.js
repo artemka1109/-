@@ -1,5 +1,5 @@
 const http=require('http');const {Server}=require('socket.io');const PORT=process.env.PORT||3000;
-const HTML=String.raw`<!doctype html>
+const HTML=`<!doctype html>
 <html lang="ru">
 <head>
 <meta charset="utf-8">
